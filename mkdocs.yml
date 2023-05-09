@@ -11,6 +11,8 @@ nav:
       - index: tech/index.md
       - Whitepaper: 
         - English: tech/whitepaper/index.md
+        - Hindi: tech/whitepaper/india.md
+        - Indonesia: tech/whitepaper/indonesia.md
         - Spanish: tech/whitepaper/spanish.md     
         - Chinese: tech/whitepaper/chinese.md
       - Radiant System Design: tech/radiant-system-design/index.md
@@ -55,6 +57,7 @@ nav:
               - Home: guides/flux/index.md
         - Docker: 
               - Home: guides/docker/index.md
+              - Radiant-Node: guides/docker/radiant-node-guide.md
         - Radiant:              
               - Mining Solo: guides/mining/index.md
               - Compile Node: guides/node/compile/index.md

@@ -7,7 +7,7 @@ hide:
 - **Website:** [https://radiantblockchain.org](https://radiantblockchain.org)
 - **Website Community:** [https://radiant4people.com](https://radiant4people.com)
 - **Whitepaper:** [https://radiantblockchain.org/radiant.pdf](https://radiantblockchain.org/radiant.pdf)
-- **System Design:** [radiant-system-design.md](https://github.com/RadiantBlockchain/radiant-node/blob/master/doc/whitepaper/radiant-system-design.md)
+- **System Design:** [https://radiant4people.com/tech/radiant-system-design](https://radiant4people.com/tech/radiant-system-design)
 - **What is Radiant?:** [https://www.youtube.com/watch?v=B-UWB7iC7O4](https://www.youtube.com/watch?v=B-UWB7iC7O4)
 
 ## Code
@@ -27,6 +27,7 @@ hide:
 - **Explorer 1:** [https://radiantexplorer.com](https://radiantexplorer.com)
 - **Explorer 2:** [https://explorer.radiant.ovh](https://explorer.radiant.ovh)
 - **Explorer 3:** [https://explorer.radiantblockchain.org](https://explorer.radiantblockchain.org)
+- **Explorer 4:** [https://radiantscan.io](https://radiantscan.io)
 
 ### Testnet Explorers
 
@@ -48,10 +49,11 @@ hide:
 
 - **Wallet Electron 0.1.4 (Win / Linux /Mac):** [https://github.com/RadiantBlockchain/electron-radiant/releases/tag/v0.1.4](https://github.com/RadiantBlockchain/electron-radiant/releases/tag/v0.1.4)
 - **SAMARA 1.0.2 (Chrome/Brave):** [https://samara.app](https://samara.app)
-- **CHAINBOW 1.0.0 (ALL SO):** [https://chainbow.io/](https://chainbow.io/)
+- **CHAINBOW 2.0.0 Beta(ALL SO):** [https://chainbow.io/](https://chainbow.io/)
 
 ## Exchanges
 
+- **CoinEx:** [https://www.coinex.com](https://www.coinex.com/exchange/RXD-USDT)
 - **Txbit:** [https://txbit.io](https://txbit.io/?r=35af4)
 - **Exbitron:**  [https://www.exbitron.com](https://www.exbitron.com)
 - **Tradeogre:** [https://tradeogre.com](https://tradeogre.com)
@@ -61,7 +63,7 @@ hide:
 ## Market Info
 
 - **Coinmarketcap:** [https://coinmarketcap.com/currencies/radiant](https://coinmarketcap.com/currencies/radiant)
-- **Coinsgecko:** [https://www.coingecko.com/en/coins/radiant](https://www.coingecko.com/en/coins/radiant)
+- **CoinGecko:** [https://www.coingecko.com/en/coins/radiant](https://www.coingecko.com/en/coins/radiant)
 - **Coinpaprika:** [https://coinpaprika.com/coin/rxd-radiant](https://coinpaprika.com/coin/rxd-radiant)
 - **Hashrate/Difficulty chart:** [https://radiant.ovh/grafica](https://radiant.ovh/grafica)
 
